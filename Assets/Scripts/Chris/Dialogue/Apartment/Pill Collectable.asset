@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Pill Collectable
+  m_EditorClassIdentifier: 
+  _name: 24
+  dialogue:
+  - "Hannah  \u2013 God, I\u2019m so bored. This city has like NOTHING to do.                                                                                                                                                                                         
+    Alex \u2013 That tends to happen hannah if you never leave your room.                                                                                                                            
+    Hannah \u2013 I knowwww but like\u2026 what\u2019s the point?                                                                                                                            
+    Alex \u2013 of leaving your room                                                                                                                            
+    Hannah \u2013 Yeah, like there\u2019s nothing to do anyways except pop these
+    stupid \u2018heedo corp\u2019 pills.                                                                                                                            
+    Alex \u2013 I\u2019ve heard rumours that they like royally fuck up your brain                                                                                                                            
+    Hannah \u2013 As if, that\u2019s all just conspiracy. People always love to hate
+    on larger companies. They\u2019re just jealous.                                                                                                                            
+    Alex \u2013 Maybe but I wouldn\u2019t trust it. "
+  audio:
+  - {fileID: 8300000, guid: b8736a72bec73a742b5117a65ddd9340, type: 3}

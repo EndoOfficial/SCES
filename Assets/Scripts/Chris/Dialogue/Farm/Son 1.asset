@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Son 1
+  m_EditorClassIdentifier: 
+  _name: 14
+  dialogue:
+  - I just wish I had someone around to do something with.
+  - "There\u2019s only so much \u2018finding yourself\u2019 I can do before it\u2019s
+    just repetitive."
+  - "It\u2019s so lonely out here on the farm, nobody around for miles and miles."
+  audio:
+  - {fileID: 8300000, guid: 2531381dda3a252459f1cf352fd801a3, type: 3}
+  - {fileID: 8300000, guid: 1006fdbb231d59a40aeda122bc410d92, type: 3}
+  - {fileID: 8300000, guid: 9f5c802e62f8ec14daa72047eb11b49e, type: 3}

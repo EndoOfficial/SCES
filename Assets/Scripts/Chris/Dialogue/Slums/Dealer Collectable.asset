@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Dealer Collectable
+  m_EditorClassIdentifier: 
+  _name: 24
+  dialogue:
+  - "Yesterday - 11:59 PM                                                                                                                                                                                                                                         
+    Mr B- Rent\u2019s due, Reggie                                                                                                                                                                                                                                          
+    You - I know I know, give me another day I swear I\u2019ll get the money too
+    It\u2019s the same thing every month isn\u2019t it? Give me another day or two
+    I do get the money to you though                                                                                                                                                                                                                                          
+    Mr B - I suppose so                                                                                                                                                                                                                                            
+    Today - 2 PM                                                                                                                                                                                                                                          
+    You - Hey, the pipes are broken again.                                                                                                                                                                                                                                          
+    Mr B - So? Not my problem                                                                                                                                                                                                                                          
+    You - You\u2019re the land lord                                                                                                                                                                                                                                          
+    Mr B - Yeah, and you\u2019re the tenant, so better fix those pipes.                                                                                                                                                                                                                                          
+    You - You have a responsibility                                                                                                                                                                                                                                          
+    Mr B - And you shouldn\u2019t be selling illicit substances                                                                                                                                                                                                                                          
+    You - Touche "
+  audio:
+  - {fileID: 8300000, guid: 71ba0dd4d32c71a4f8039da2694f8b79, type: 3}

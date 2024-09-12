@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Mum Collectable
+  m_EditorClassIdentifier: 
+  _name: 24
+  dialogue:
+  - "Every day I sleep with at least two different men, and every day I feel more
+    and more disgusting and empty. My husband doesn\u2019t even look at me, he\u2019s
+    too full of himself to notice. My daughter just sits in her room all day high
+    out of her mind. Neither of them hear me in the other room with sometimes up
+    to three other guys in there groaning. Everytime I feel so disgusting after woulds,
+    yet I can\u2019t help it. It feels so good in the moment, I feel so wanted. Although
+    they may be total strangers, they seem to look after me better than my own family.
+    Oh well, such is the irony of life? I\u2019d try and talk to my husband. But
+    I honestly can\u2019t be bothered. It\u2019s so much easier finding guys off
+    the internet that want to sleep with me than trying to have a conversation with
+    him. "
+  audio:
+  - {fileID: 8300000, guid: 0582345fdf0ea86488d0162ec25272b6, type: 3}

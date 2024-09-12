@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Shredder
+  - Paper
+  - Enemy
+  - CentreCube
+  - PlayerSpawnPoint
+  - KillBox
+  - LeftKnee
+  - RightKnee
+  - Head
+  - Slide
+  - GameManager
+  - Arm
+  - Roof
+  - NPC
+  - Pickup
+  - EnemyCoke
+  - Wheat
+  - ItemSpawner
+  - CocainePuff
+  - Collectable
+  - SpawnLocation
+  - Nose
+  - GameWin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Nicotine
+  - walls
+  - Grunt
+  - Enemy
+  - NPC
+  - Knees
+  - Slide
+  - Collectable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

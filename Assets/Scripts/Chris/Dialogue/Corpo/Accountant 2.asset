@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Accountant 2
+  m_EditorClassIdentifier: 
+  _name: 23
+  dialogue:
+  - "Wow I\u2019m so productive now that I\u2019ve over come my fear\u2026 Hey\u2026
+    anyone notice that out of place water cooler?"
+  - "I can\u2019t believe how much quicker I\u2019m getting through work after you
+    shot those things in my head! Do uh\u2026 water coolers have that weird bubble
+    in them always?"
+  - Did somebody move that water cooler closer to me? Anyways, thanks for helping
+    clear out my anxieties!
+  audio:
+  - {fileID: 8300000, guid: 1c5cb58aff0ff8746a9c886039f4f66a, type: 3}
+  - {fileID: 8300000, guid: da2020c363cf5464eb8cb214677b3401, type: 3}
+  - {fileID: 8300000, guid: 7e487a02da6a34342afe12066bb0637c, type: 3}

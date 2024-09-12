@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Accountant 1
+  m_EditorClassIdentifier: 
+  _name: 22
+  dialogue:
+  - The boxes, everywhere I look there are boxes! AaAhH!
+  - "1\u2026 5\u2026 Monday\u2026 A through Z\u2026 Friday morning\u2026 7\u2026
+    Alpha\u2026 Omega\u2026 *Sobs*"
+  - The sheet never ends the sheet never ends the sheet never ends the sheet never
+    ends.
+  audio:
+  - {fileID: 8300000, guid: 62ce2c99b0e3c3843bf5d5a1d57aed50, type: 3}
+  - {fileID: 8300000, guid: 911ee4b452421ab4386aada528c10205, type: 3}
+  - {fileID: 8300000, guid: 3800b8f6c44b51b41b44774fe5ea4b26, type: 3}

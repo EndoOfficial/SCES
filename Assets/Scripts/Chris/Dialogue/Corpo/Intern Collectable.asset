@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Intern Collectable
+  m_EditorClassIdentifier: 
+  _name: 24
+  dialogue:
+  - "28th Nov: Arnold was looking over at me funny again from inside his office.
+    He came out and stumbled around with a note book and tried to tell me some brainless
+    joke he cooked up about how women belong in the kitchen. Made me super uncomfortable
+    but I awkwardly laughed, he seemed to look a little concerned then went back
+    into his office. I hope he isn\u2019t going to fire me.                                                                                                       
+    1st Oct: Arnold had another testing round of his shitty jokes again. This time
+    I was by the water cooler chatting with Graham from accounting, Arnold came over
+    and just said \u2018interstellar? I hardly know her!\u2019 and slapped me. Nobody
+    laughed. I could see him sweating and he scurried off.                                                                                                                                                                                                                 
+    3rd Oct : It\u2019s so uncomfortable, not only is this guy basically harassing
+    me but he does it through his jokes that are just plainly terrible. Rumour around
+    the office is if you catch him on an off day and don\u2019t laugh at his jokes,
+    he may fire you. Everyday I have to listen to his barrage of shitty jokes, every
+    day I have to awkwardly laugh to stroke his ego and keep my job. It\u2019s really
+    taking a toll on me.    Today\u2019s joke was: How many women does it take to
+    change a light bulb? One! Because women are capable human beings. At least this
+    one wasn\u2019t derogatory, but did he really think it was funny? "
+  audio:
+  - {fileID: 8300000, guid: 79ad54f0bea329b4c945ace39dd702ce, type: 3}

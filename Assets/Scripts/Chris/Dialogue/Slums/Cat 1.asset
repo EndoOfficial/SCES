@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Cat 1
+  m_EditorClassIdentifier: 
+  _name: 0
+  dialogue:
+  - Endless, Hunger, Food, Please.
+  - Unbearable, Pain, Starvation, Prevent.
+  - Angry, Human, Bad, Food.
+  audio:
+  - {fileID: 8300000, guid: d5f2d7a8dbc61734baf2259399625733, type: 3}
+  - {fileID: 8300000, guid: c743934e3e0e7c14f950fa6d3760d837, type: 3}
+  - {fileID: 8300000, guid: f8507f50196873142bac8b7c9125ba5e, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Mum 2
+  m_EditorClassIdentifier: 
+  _name: 7
+  dialogue:
+  - God, sitting here with my husband makes me realise how much I hate him.
+  - "I\u2019m waiting for my husband to go to sleep so I can head over to Chad\u2019s."
+  - Our daughter is such a brat. Like mother, like daughter, I guess.
+  audio:
+  - {fileID: 8300000, guid: b7c5e685baf4b454191d2b99676b3069, type: 3}
+  - {fileID: 8300000, guid: 6356de465a2a9044592fd659eede7c54, type: 3}
+  - {fileID: 8300000, guid: 0d4da36d80360fb43a285966f831e465, type: 3}

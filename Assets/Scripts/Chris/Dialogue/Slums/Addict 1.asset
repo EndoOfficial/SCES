@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Addict 1
+  m_EditorClassIdentifier: 
+  _name: 4
+  dialogue:
+  - "Thinking about Sally again\u2026 come on I need another hit to forget about
+    this."
+  - "I\u2019m shaking man, I\u2019m shaking. I need more of the sauce, you know what
+    I\u2019m saying? Please, please."
+  - "Oh God, I can\u2019t even take care of a cat let alone a human. Fuck dude, just
+    give me a little more then I\u2019ll quit, I swear I\u2019m done."
+  audio:
+  - {fileID: 8300000, guid: 1f7b0989798a1bf4f9dcb6a2475bfc36, type: 3}
+  - {fileID: 8300000, guid: 915c500db896c20458fe56d655df42d7, type: 3}
+  - {fileID: 8300000, guid: 7c81d1e069ac480429a143a3e0fc8f61, type: 3}

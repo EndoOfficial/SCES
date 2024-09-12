@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Cow Collectable
+  m_EditorClassIdentifier: 
+  _name: 24
+  dialogue:
+  - "The hands, the hands. Everytime I close my eyes all I see are those wretched,
+    decrepit, old hands. Milking and milking. Twisting, pulling, pinching, at my
+    woman hood. Taking away my maternal energy and all for what? For those twisted
+    humanoid\u2026 things to ingest? This is meant to be for my calfs, and here they
+    are, yanking it out of me just to drink it all up in their disgusting mouths.
+    And they come back, morning after morning, milking and milking. With those vile,
+    vile, hands."
+  audio:
+  - {fileID: 8300000, guid: 554ff48ae658c0c4bb4a1feefef686ad, type: 3}

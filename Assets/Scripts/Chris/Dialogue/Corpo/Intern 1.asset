@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Intern 1
+  m_EditorClassIdentifier: 
+  _name: 20
+  dialogue:
+  - "Why won\u2019t he just leave me alone"
+  - "I can\u2019t tolerate this anymore"
+  - "I\u2019m really at my wits end"
+  audio:
+  - {fileID: 8300000, guid: 50f70e735243e7c47858dfcef848175f, type: 3}
+  - {fileID: 8300000, guid: 4464d40aa234a534eae75eb9e578b335, type: 3}
+  - {fileID: 8300000, guid: 37bcc0f87080fba4f82cf2033303d3c9, type: 3}

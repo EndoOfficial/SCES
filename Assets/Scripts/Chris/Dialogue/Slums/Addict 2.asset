@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Addict 2
+  m_EditorClassIdentifier: 
+  _name: 5
+  dialogue:
+  - "Those demon things\u2026 in my skull\u2026 they're meant to be my addictive
+    tendencies or something\u2026 right? So why do I still crave\u2026"
+  - "Okay Mr uhh\u2026 I guess I\u2019ll call you Bruce? Have some food. Surely if
+    I can look after this stray I can look after my daughter, right?"
+  - "Yeah, there\u2019s some nights I can\u2019t sleep because I\u2019m too busy
+    scratching and shaking, but I think I\u2019m doing better."
+  audio:
+  - {fileID: 8300000, guid: a3b9cdff9fbc028408e5b372e037448b, type: 3}
+  - {fileID: 8300000, guid: e81e350cb49d4bc4092608e932b40e85, type: 3}
+  - {fileID: 8300000, guid: 7f1f1f744b9ead448b17ffd34dc58537, type: 3}

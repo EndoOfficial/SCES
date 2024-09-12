@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Pill 2
+  m_EditorClassIdentifier: 
+  _name: 11
+  dialogue:
+  - "I can\u2019t believe my Dad still hasn\u2019t realised how much Mum sleeps around."
+  - "Thanks for shooting that shit out of my brain. I still hate my parents, I\u2019m
+    going to have more pills after this."
+  - "God, my parents are so boring. All they do is bicker, I\u2019m just waiting
+    to pop more pills when they leave."
+  audio:
+  - {fileID: 8300000, guid: b77309759e13c5b4eb01ac7312ff6c51, type: 3}
+  - {fileID: 8300000, guid: 519f81ff373c28c428a86a85bbf80f08, type: 3}
+  - {fileID: 8300000, guid: 0731b615b5bac9744a68789a77268581, type: 3}

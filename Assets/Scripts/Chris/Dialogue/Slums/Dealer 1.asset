@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Dealer 1
+  m_EditorClassIdentifier: 
+  _name: 2
+  dialogue:
+  - "I just can\u2019t take it anymore man. I failed science in school and now I\u2019ll
+    fail on the streets!"
+  - "All I wanna do is just make cool stuff and I\u2019ve got the rent up my ass
+    trying to keep things together."
+  - "This shit hole is really cramping my style, and yet the land lord is expecting
+    me to pay a higher rent each month. He\u2019s drowning me."
+  audio:
+  - {fileID: 8300000, guid: 948e1ed571eee244eb39ff24dfba3e6d, type: 3}
+  - {fileID: 8300000, guid: 6c42e06b2811ef2409380aca2ff9c2d8, type: 3}
+  - {fileID: 8300000, guid: f05b3558fc9cea44092ae35568d4e2f8, type: 3}

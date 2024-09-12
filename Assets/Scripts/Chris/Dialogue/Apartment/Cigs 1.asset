@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Cigs 1
+  m_EditorClassIdentifier: 
+  _name: 8
+  dialogue:
+  - "I can quit whenever I want. Tobacco doesn\u2019t control me."
+  - "Who cares what others think? I\u2019m what matters."
+  - Pfft, I own this place. My family, they listen to me.
+  audio:
+  - {fileID: 8300000, guid: 9025c537a77317345850ba4732b95449, type: 3}
+  - {fileID: 8300000, guid: 276dc366ff8736a4dbc5a470beedaad8, type: 3}
+  - {fileID: 8300000, guid: 6f593ee1f65d86545a49400ee1363779, type: 3}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Addict Collectable
+  m_EditorClassIdentifier: 
+  _name: 24
+  dialogue:
+  - "To whom it may concern;  It has been decreed by judge Reginald Ashby that Mr
+    Aaron Wires must stay a 200 ft radius away from Ms Jenifer Wires and their daughter
+    Sally Wires. This is following years of alleged drug abuse causing wires to become
+    unsuitable and dangerous as a parental figure. Mr Wires has been found guilty
+    of child endangerment, drug abuse, domestic altercation and endangering the life
+    of another. He is sentenced to three years on a good behaviour bond to be tracked
+    via an anklet. During this time, he should be in for monthly psychiatric evaluations.
+    At the end of this time period, he shall come back to the court for re-evaluation. 
+    Signed: Reg Ashby \t\t\t\t\t\t\t\tDated: 05/04/2074"
+  audio:
+  - {fileID: 8300000, guid: 1ee26c05ffe07da42ab040f6a4dd08ed, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Son Collectable
+  m_EditorClassIdentifier: 
+  _name: 24
+  dialogue:
+  - "I\u2019ve been stuck in this wretched rural place for my whole existence. What
+    a bore, there\u2019s nothing to do around here. I\u2019m so alone, all I do is
+    sit inside all day, there's no reason to go out, nobody to go with, to talk to.
+    I sit in my room, staring at a wall, lying in bed, listening to music. At least
+    that is an out, but I just wish I had someone to go outside and do things with.
+    There\u2019s so much \u2018know your self\u2019 bull shit these days, I just
+    wish I could also know somebody else besides myself."
+  audio:
+  - {fileID: 8300000, guid: 6c6caa66873450a46a290450c0416d44, type: 3}

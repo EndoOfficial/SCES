@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Intern 2
+  m_EditorClassIdentifier: 
+  _name: 21
+  dialogue:
+  - "He\u2019s starting to tell jokes more now, and he actually thinks they\u2019re
+    funnier than last time."
+  - "I can\u2019t quit. I need the money or I\u2019ll starve."
+  - "Come on Stella, just another day at the office. Think of the food you\u2019ll
+    buy, or the jewellery, something to get through the day."
+  audio:
+  - {fileID: 8300000, guid: 2ad5dc335ce0c0448a62a386971b9b0c, type: 3}
+  - {fileID: 8300000, guid: b4af70dd9690773409d20c3c31705d1a, type: 3}
+  - {fileID: 8300000, guid: 55c906ff9405daa40875c7244f414e74, type: 3}

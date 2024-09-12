@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 364ad79c1b592df46a548436492c1134, type: 3}
+  m_Name: Rural Audio Library
+  m_EditorClassIdentifier: 
+  audioClips:
+  - audioClip: {fileID: 8300000, guid: 9d1ff521dcabb814d921f59c5e6c5229, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 0
+  - audioClip: {fileID: 8300000, guid: e46b2e725a2c7fa438168a54f2e6de80, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 1
+  - audioClip: {fileID: 8300000, guid: 5485df56a6a6959459384583533d0d4e, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 6
+  - audioClip: {fileID: 8300000, guid: ddb5b9a06edd9ca449023eec0dfeebbe, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 2
+  - audioClip: {fileID: 8300000, guid: 2472a406a4d2f834a83e5642d308a0da, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 2
+  - audioClip: {fileID: 8300000, guid: 8241ac6511700ad4bacd00e6ebb3d6fb, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 3
+  - audioClip: {fileID: 8300000, guid: 8241ac6511700ad4bacd00e6ebb3d6fb, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 3
+  - audioClip: {fileID: 8300000, guid: b46a18120dc4e3c45a973bfbb5670c2f, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 3
+  - audioClip: {fileID: 8300000, guid: dbb43204d09fe194497a3830586dbd29, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 4
+  - audioClip: {fileID: 8300000, guid: c5ba3caf2b7a24b4982f66c26910829f, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 8
+  - audioClip: {fileID: 8300000, guid: 35c79ce247b5a634e9ca032cfe48c093, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 5
+  - audioClip: {fileID: 8300000, guid: e9410856d5d2de1408528c7cdc8a0e2d, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 7
+  - audioClip: {fileID: 8300000, guid: 876a65a4705ca774ea0ce4d155ea6e9c, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    RuralClipTag: 9

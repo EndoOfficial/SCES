@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: Accountant Collectable
+  m_EditorClassIdentifier: 
+  _name: 24
+  dialogue:
+  - "Dear Mr Graham Dudley, \t Here is your recent shipment of THC injections to
+    help ease your anxieties. I have provided approximately 60 syringes, that\u2019s
+    more than double your previous dosage. Your script should renew at the same time
+    next month if you wish to order more. I must warn you, I strongly suggest you
+    begin seeking psychiatric help as upping your doseage of THC may lead to more
+    long term side effects we have not seen and you may grow a tolerance to the medicine,
+    causing it to no longer prevent you from having panic attacks. Look after yourself. 
+    \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDr. Terry White"
+  audio:
+  - {fileID: 8300000, guid: 1bb87fb67cd6fc84cabce00d034b9072, type: 3}

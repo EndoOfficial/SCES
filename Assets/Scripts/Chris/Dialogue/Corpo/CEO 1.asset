@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f202921c626774c48a983854987d6223, type: 3}
+  m_Name: CEO 1
+  m_EditorClassIdentifier: 
+  _name: 18
+  dialogue:
+  - "I\u2019ll never make it in the stand up industry!"
+  - "Why won\u2019t anyone find me funny!"
+  - " I just want to make the world smile, but I can\u2019t even make myself smile! "
+  audio:
+  - {fileID: 8300000, guid: 3f410170736d07d48be017b88fb55030, type: 3}
+  - {fileID: 8300000, guid: d8ac3949dd0661242ae365f1e5414d45, type: 3}
+  - {fileID: 8300000, guid: c8aca44590cedfa4895be8c96cb26ce9, type: 3}

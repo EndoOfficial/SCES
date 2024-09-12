@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0307e7c913e9e646a5aed770fa64c71, type: 3}
+  m_Name: Corporate Audio Library
+  m_EditorClassIdentifier: 
+  audioClips:
+  - audioClip: {fileID: 8300000, guid: 9b63d02fce42b6247bef633d00832e3c, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    CorporateClipTag: 0
+  - audioClip: {fileID: 8300000, guid: 5a42d392181e1bd42912be0d1ffa2871, type: 3}
+    Loop: 0
+    Pitch: 0.9
+    Volume: 1
+    CorporateClipTag: 1
+  - audioClip: {fileID: 8300000, guid: bfde13f4c934c3e43865b671f8f1a17a, type: 3}
+    Loop: 0
+    Pitch: 0.9
+    Volume: 1
+    CorporateClipTag: 2
+  - audioClip: {fileID: 8300000, guid: da685fb8e3de48f42a0e6a127a338950, type: 3}
+    Loop: 0
+    Pitch: 0.9
+    Volume: 1
+    CorporateClipTag: 3
+  - audioClip: {fileID: 8300000, guid: 41c5c3584a0dd6340bf842eb2db95ad0, type: 3}
+    Loop: 0
+    Pitch: 0.9
+    Volume: 1
+    CorporateClipTag: 4
+  - audioClip: {fileID: 8300000, guid: 0371d5613837f504aae83106b8268179, type: 3}
+    Loop: 0
+    Pitch: 0.9
+    Volume: 1
+    CorporateClipTag: 5
+  - audioClip: {fileID: 8300000, guid: fb0868de8ceecf04ca27cae5124d061a, type: 3}
+    Loop: 0
+    Pitch: 0.9
+    Volume: 1
+    CorporateClipTag: 6
+  - audioClip: {fileID: 8300000, guid: f2365ccbfcae9ce479dcab3eef6afbcf, type: 3}
+    Loop: 0
+    Pitch: 0.9
+    Volume: 1
+    CorporateClipTag: 7
+  - audioClip: {fileID: 8300000, guid: b456e7be6e908bf4cae1a976c4c59472, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    CorporateClipTag: 8
+  - audioClip: {fileID: 8300000, guid: b6aab2bef5566e04394e53015de0a82d, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    CorporateClipTag: 9
+  - audioClip: {fileID: 8300000, guid: c04be05fb11735b4fb24bec89e9e9df2, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    CorporateClipTag: 10
+  - audioClip: {fileID: 8300000, guid: 894c533df7f46fd4b87248eb0c24244b, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    CorporateClipTag: 11
+  - audioClip: {fileID: 8300000, guid: 2fab8998fb481c048b26b07ebf3ebc2f, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    CorporateClipTag: 14
+  - audioClip: {fileID: 8300000, guid: 26eb44a77e587d34ca2e7d698750358f, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    CorporateClipTag: 13
+  - audioClip: {fileID: 8300000, guid: 71062d2821ebad6498bb021f9fedd28f, type: 3}
+    Loop: 0
+    Pitch: 1
+    Volume: 1
+    CorporateClipTag: 12
